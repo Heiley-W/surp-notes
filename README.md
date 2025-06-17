@@ -1,4 +1,4 @@
-# surp-notes
+# SURP Notes
 
 1. MD principles and statistical mechanics
     - Statistical mechanicsL Microstates, ensemble
